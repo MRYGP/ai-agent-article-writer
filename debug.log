@@ -1,0 +1,4 @@
+[16244:3640:0507/154815.778:INFO:electron\shell\app\electron_main_delegate.cc:618] #### AhaElectron (relauncher)  Startup #### cmd:  --no-sandbox
+[16244:3640:0507/154815.778:INFO:aha\components\memory_system\memory_system_manager.cc:43] MemorySystemManager::InitializeMemorySystem. process_gwp_asan_enable_list: 
+[16244:3640:0507/154815.778:INFO:aha\components\memory_system\memory_system_manager.cc:47] MemorySystemManager::InitializeMemorySystem. process: relauncher not enable for Gwp-Asan
+[16244:3640:0507/154815.934:INFO:electron\shell\app\electron_main_delegate.cc:314] #### AhaElectron (relauncher)  Shutdown ####
